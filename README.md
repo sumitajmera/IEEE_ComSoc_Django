@@ -9,5 +9,6 @@
 * Mridu Shukla
 * Adarsh Jaiswal
 * Rahul Bera
+* Sumit Ajmera
 
 Modified by **Rahul Bera**
